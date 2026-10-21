@@ -1,34 +1,34 @@
 # Zefir
 
-Маленький помощник для **Claude** на Mac. Он живёт у правого края экрана и показывает, что происходит в твоих чатах Claude Code:
-- какие ждут ответа;
-- какие готовы к проверке;
-- какие ещё работают.
+A tiny companion for **Claude** on your Mac. Zefir lives at the right edge of your screen and keeps track of your Claude Code chats:
+- which ones are waiting for you;
+- which ones are ready to review;
+- which ones are still working.
 
-А ещё он напоминает размяться и попить воды.
+Now and then it also reminds you to stretch, drink some water and take a break.
 
-## Установка
+## Install
 
-1. Скачай **[Zefir.dmg](https://github.com/yudaevzh/zefir/releases/latest/download/Zefir.dmg)**.
-2. Открой его и перетащи Zefir в «Программы».
-3. Запусти Zefir. Он появится у правого края экрана и сам будет запускаться при входе в систему.
+1. Download **[Zefir.dmg](https://github.com/yudaevzh/zefir/releases/latest/download/Zefir.dmg)**.
+2. Open it and drag Zefir into **Applications**.
+3. Launch Zefir. It appears at the right edge of your screen and from then on opens automatically when you log in.
 
-Нужны macOS 14 или новее и приложение Claude (вкладка Code).
+Requires macOS 14 or later and the Claude desktop app (the Code tab).
 
-## Как пользоваться
+## How to use it
 
-- **Наведи** курсор на Zefir — увидишь последние чаты и счётчики. Клик по чату откроет его в Claude.
-- **Нажми** на Zefir — откроются проекты и все чаты.
-- **Шестерёнка** или правый клик по Zefir — настройки: звуки, забота, цвет и подвижность персонажа, экран, автозапуск.
+- **Hover** over Zefir to see your recent chats and counters. Click a chat to open it in Claude.
+- **Click** Zefir to open all your projects and chats.
+- **Click the gear or right-click Zefir** to open the settings: language, sounds, care reminders, Zefir's color and liveliness, display and launch at login.
 
-## Обновления
+## Updates
 
-Zefir сам проверяет обновления и предлагает поставить новую версию в один клик. Проверить вручную: шестерёнка → «Проверить обновления».
+Zefir checks for updates on its own and installs a new version in one click. To check manually: gear → **Check for updates**.
 
-## Приватность
+## Privacy
 
-Zefir читает чаты Claude только на твоём Mac и никуда их не отправляет. Ответы на вопросы о настроении тоже остаются на этом Mac.
+Zefir reads your Claude chats only on your Mac and never sends them anywhere. Your answers to its mood check-ins stay on your Mac too.
 
 ---
 
-Анимационный движок основан на коде [Coucou](https://github.com/Louis-CFM/coucou) (MIT License, © Louis Raillé). Персонаж Zefir нарисован отдельно.
+The animation engine is based on code from [Coucou](https://github.com/Louis-CFM/coucou) (MIT License, © Louis Raillé). The Zefir character is an original design.
