@@ -19,6 +19,7 @@ Works on Apple Silicon and Intel Macs with macOS 14 or later. You also need the 
 
 - **Hover** over Zefir to see your recent chats and counters. Click a chat to open it in Claude.
 - **Click** Zefir to open all your projects and chats.
+- **Drag** the top of the card (Zefir and the counters) to move it anywhere: drop it at the right or left edge to dock, or anywhere else to let it float. It opens toward the free space. Gear → **Snap back to the right edge** puts it back.
 - **Click the gear or right-click Zefir** to open the settings: language, sounds, care reminders, Zefir's color and liveliness, display and launch at login.
 
 ## Claude limits
