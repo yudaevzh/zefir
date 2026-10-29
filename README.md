@@ -17,10 +17,10 @@ Works on Apple Silicon and Intel Macs with macOS 14 or later. You also need the 
 
 ## How to use it
 
-- **Hover** over Zefir to see your recent chats and counters. Click a chat to open it in Claude.
-- **Click** Zefir to open all your projects and chats.
+- **Hover** over Mochi to see your recent chats and counters. Click a chat to open it in Claude.
+- **Click** Mochi to open all your projects and chats.
 - **Drag** the top of the card (Zefir and the counters) to move it anywhere: drop it at the right or left edge to dock, or anywhere else to let it float. It opens toward the free space. Gear → **Snap back to the right edge** puts it back.
-- **Click the gear or right-click Zefir** to open the settings: language, sounds, care reminders, Zefir's color and liveliness, display and launch at login.
+- **Click the gear or right-click Mochi** to open the settings: language, sounds, care reminders, Mochi's color and liveliness, display and launch at login.
 
 ## Claude limits
 
@@ -40,4 +40,4 @@ Zefir reads your Claude chats only on your Mac and never sends them anywhere. Yo
 
 ---
 
-The animation engine is based on code from [Coucou](https://github.com/Louis-CFM/coucou) (MIT License, © Louis Raillé). The Zefir character is an original design.
+The character **Mochi** and the animation engine are from [Coucou](https://github.com/Louis-CFM/coucou) by **Louis Raillé** (MIT License, © Louis Raillé). Mochi is used here with the author's permission; this app is free and non-commercial. Mochi character — © [Louis Raillé, Coucou](https://github.com/Louis-CFM/coucou).
